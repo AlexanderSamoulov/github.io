@@ -84,7 +84,7 @@ h2 {
 	margin-right: 40px;
 	border-radius: 20px;
 	overflow: hidden;
-	background-image: url(../content/photo.png);
+	background-image: url(content/photo.png);
 	background-size: cover;
 }
 
@@ -173,6 +173,6 @@ main {
 }
 
 footer {
-	text-align: end;
+	text-align: center;
 	padding: 10px;
 }
